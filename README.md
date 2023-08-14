@@ -3,7 +3,6 @@ Welcome to the AirBnB clone project!
 1. "Airbnb is a complete web application, integrating database storage, a back-end API, and front-end interfaces."
    - We're describing Airbnb as a comprehensive web application that combines different components. Here's a breakdown of the key elements:
      - "Airbnb" refers to the web application's name.
-     - "a complete web application" is a noun phrase describing what Airbnb is. It's a full-fledged application that provides various functionalities.
      - "integrating" is a verb that describes the action of combining or bringing together different parts.
      - "database storage" refers to the storage of data in a database.
      - "a back-end API" refers to the backend Application Programming Interface, which is a set of protocols and tools for building the application's server-side functionality.
