@@ -5,7 +5,7 @@
 
 Before developing a big and complex web application, we will build the front end step-by-step.
 
-<h1> Task to Do </h1>
+<h1> Tasks to Do </h1>
 
 The first step is to “design” / “sketch” / “prototype” each element:
 
